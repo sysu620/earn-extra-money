@@ -9,6 +9,8 @@
 
 #### 众人帮
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190526204412857.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
+
+
 分析：
 
 - 功能繁多，稍显臃肿
@@ -17,13 +19,18 @@
 
 #### 问卷星
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190526215756455.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
+
 分析：
+
 - 界面简洁，支持的问卷类型丰富，操作也比较容易上手
 - 用户反馈说有打不开、不能保存的情况，影响了部分人作业、报告的提交
 
 #### 蛋壳互助
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190526224200500.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
+
+
 分析：
+
 
 - 界面、功能与众人帮有类似的地方，但是比众人帮要清爽很多，架构更加清晰合理
 - 调查问卷参与要填写验证码，我一直都没法通过验证
