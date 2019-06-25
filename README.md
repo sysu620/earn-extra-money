@@ -30,7 +30,7 @@
 #### X1 [meeting-records](https://github.com/sysu620/sysu620/tree/master/meeting_records)
 - [(19/4/24)](https://github.com/sysu620/sysu620/blob/master/meeting_records/%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95week2.png)
 - [(19/5/5)](https://github.com/sysu620/sysu620/blob/master/meeting_records/%E5%B0%8F%E7%BB%84%E4%BC%9A%E8%AE%AE3%EF%BC%882019.5.5%EF%BC%89.png)
-- [inception meeting (19/5/19)](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.5.19.png)
+- [(19/5/19)](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.5.19.png)
 - [(19/6/2)](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.6.2.png)
 - [(19/6/9)](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.6.9.png)
 - [(19/6/23)](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.6.23.png)
