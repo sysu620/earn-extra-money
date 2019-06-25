@@ -8,14 +8,16 @@
 
 
 ## 二、全局说明
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E5%85%A8%E5%B1%80%E8%AF%B4%E6%98%8E1.png?raw=true)
 
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E5%85%A8%E5%B1%80%E8%AF%B4%E6%98%8E2.png?raw=true)
 
 ## 三、页面组成
-
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E7%BB%93%E6%9E%841.png?raw=true)
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E7%BB%93%E6%9E%842.png?raw=true)
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E7%BB%93%E6%9E%843.png?raw=true)
 
 ## 四、页面预览
-
-﻿## 1 注册登录
 
 #### 1.1 登录
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019062523070680.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
@@ -30,11 +32,32 @@
 ---
 ## 2 主页
 
+#### 2.1 主页
 
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E4%B8%BB%E9%A1%B5.png?raw=true)
 
+#### 2.2 任务列表
 
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8.png?raw=true)
 
+##### 2.2.1 任务详情
 
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E4%BB%BB%E5%8A%A1%E8%AF%A6%E6%83%85.png?raw=true)
+
+#### 2.3 我的发布
+
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E6%88%91%E7%9A%84%E5%8F%91%E5%B8%83.png?raw=true)
+
+##### 2.3.1 任务发布
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E5%88%9B%E5%BB%BA%E4%BB%BB%E5%8A%A1.png?raw=true)
+
+#### 2.4 我的任务
+
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E6%88%91%E7%9A%84%E4%BB%BB%E5%8A%A1.png?raw=true)
+
+#### 2.5 通知页
+
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/image/%E4%BA%BA%E7%89%A9%E9%80%9A%E7%9F%A5.png?raw=true)
 
 ---
 ## 3 个人页
