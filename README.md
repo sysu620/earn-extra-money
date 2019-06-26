@@ -18,7 +18,7 @@
 - 7.1 [UI design（界面设计）](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/README.md)
 - 7.2 [Database design（数据库设计）](https://github.com/sysu620/sysu620/tree/master/Design/ER图.png)
 - 7.3 [Interface API design（接口 API 设计）](https://github.com/sysu620/sysu620/tree/master/Design/API说明书.md)
-- 7.4 Architecture design（架构设计）
+- 7.4 [Architecture design（架构设计）](https://github.com/sysu620/sysu620/blob/master/Design/architecture.md)
 - 7.5 Usecase design（用例设计）
   - 7.5.1 [注册登录用例设计](https://github.com/sysu620/sysu620/blob/master/Design/use_case_design.md)
 #### 8、生产规范与指南
