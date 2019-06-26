@@ -1,5 +1,5 @@
 ## 项目文档目录
-  
+
 
 #### 1、[About（项目概况）](https://github.com/sysu620/sysu620/blob/master/About.md)
 #### 2、[Team profile（团队组建与分工）](https://github.com/sysu620/sysu620/blob/master/team.md)
@@ -54,6 +54,14 @@
   - [系分 | semanticui初探](https://ralphwithoutmissfun.github.io/2019/06/23/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E5%A4%A7%E4%BD%9C%E4%B8%9A%E7%B3%BB%E5%88%97%E5%8D%9A%E5%AE%A2%E4%B8%80/)
   - [系分 | shiny框架使用](https://ralphwithoutmissfun.github.io/2019/06/23/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E5%A4%A7%E4%BD%9C%E4%B8%9A%E7%B3%BB%E5%88%97%E5%8D%9A%E5%AE%A2%E4%BA%8C/)
   - [系分 | semantic-ui深入](https://ralphwithoutmissfun.github.io/2019/06/23/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E5%A4%A7%E4%BD%9C%E4%B8%9A%E7%B3%BB%E5%88%97%E5%8D%9A%E5%AE%A2%E4%B8%89/)
+
+- 16340078
+  - [系分|vuex笔记](https://blog.csdn.net/huangbx_tx/article/details/93789293)
+  - [系分|Alfred工具使用及配置](https://blog.csdn.net/huangbx_tx/article/details/93342016)
+  - [系分|async/await](https://blog.csdn.net/huangbx_tx/article/details/92978649)
+  - [系分|前端知识总结](https://huangbxaaa.github.io/2019/04/17/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88%E6%94%B6%E9%9B%86/)
+  - [系分|local srorage 和 vuex](https://blog.csdn.net/huangbx_tx/article/details/93792102)
+  - [系分|vue-cli + semantic UI 环境配置](https://blog.csdn.net/huangbx_tx/article/details/93790442)
 #### X5 Final Report
 - 学号-title
 - 小组分工与贡献率说明
