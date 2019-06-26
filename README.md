@@ -39,7 +39,13 @@
 #### X2 [KANBAN](https://github.com/orgs/sysu620/projects)
 #### X3 auditing-records
 #### X4 Tech/Work Report
-- 学号-title
+- 16340073
+  - [系分 | UML之包图](https://blog.csdn.net/cat_xing/article/details/93746468)
+  - [系分 | UML之系统顺序图](https://blog.csdn.net/cat_xing/article/details/93745146)
+  - [系分 | UML之类图](https://blog.csdn.net/cat_xing/article/details/93744660)
+  - [系分 | UML之活动图与状态图](https://blog.csdn.net/cat_xing/article/details/93744098)
+  - [系分 | UML之用例图](https://blog.csdn.net/cat_xing/article/details/93743295)
+  - [系统分析与设计 | 团队中的各种角色](https://blog.csdn.net/cat_xing/article/details/89243370)
 #### X5 Final Report
 - 学号-title
 - 小组分工与贡献率说明
