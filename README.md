@@ -7,8 +7,8 @@
 #### 4、[Vision（项目愿景）](https://github.com/sysu620/sysu620/blob/master/Vision.md)
 #### 5、[Product Backlog （产品特性库）](https://github.com/sysu620/sysu620/blob/master/Product%20Backlog.md)
 #### 6、Requirement specification（需求规格说明书）
-- 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E6%B5%81%E7%A8%8B%E5%9B%BE190602.jpg)
-- 6.2 [Use Cases（用例+活动图）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E7%94%A8%E4%BE%8B%E5%9B%BE190602.png)
+- 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E7%94%A8%E4%BE%8B%E5%9B%BE_%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B.md)
+- 6.2 [Use Cases（用例+活动图）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E7%94%A8%E4%BE%8B_%E6%B4%BB%E5%8A%A8%E5%9B%BE.md)
 - 6.3 [Domian Models（领域模型）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E9%A2%86%E5%9F%9F%E5%BB%BA%E6%A8%A1190625.png)
 - 6.4 [State Models（状态模型）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E4%BB%BB%E5%8A%A1%E7%8A%B6%E6%80%81%E6%B5%81%E7%A8%8B190625.png)
 - 6.5 [System Sequence Diagrams（功能模型）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/6.5sequence_model.md)
