@@ -50,6 +50,10 @@
   - [系分 | 安装go语言开发环境](https://blog.csdn.net/hcm_0079/article/details/82903449)
   - [系分 | gorilla/mux源码分析](https://blog.csdn.net/hcm_0079/article/details/84330100)
   - [系分 | 简单web服务与客户端开发实战](https://blog.csdn.net/hcm_0079/article/details/85072030)
+- 16340074
+  - [系分 | semanticui初探](https://ralphwithoutmissfun.github.io/2019/06/23/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E5%A4%A7%E4%BD%9C%E4%B8%9A%E7%B3%BB%E5%88%97%E5%8D%9A%E5%AE%A2%E4%B8%80/)
+  - [系分 | shiny框架使用](https://ralphwithoutmissfun.github.io/2019/06/23/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E5%A4%A7%E4%BD%9C%E4%B8%9A%E7%B3%BB%E5%88%97%E5%8D%9A%E5%AE%A2%E4%BA%8C/)
+  - [系分 | semantic-ui深入](https://ralphwithoutmissfun.github.io/2019/06/23/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E5%A4%A7%E4%BD%9C%E4%B8%9A%E7%B3%BB%E5%88%97%E5%8D%9A%E5%AE%A2%E4%B8%89/)
 #### X5 Final Report
 - 学号-title
 - 小组分工与贡献率说明
