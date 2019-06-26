@@ -12,7 +12,7 @@
 - 6.3 [Domian Models（领域模型）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E9%A2%86%E5%9F%9F%E5%BB%BA%E6%A8%A1190625.png)
 - 6.4 [State Models（状态模型）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E4%BB%BB%E5%8A%A1%E7%8A%B6%E6%80%81%E6%B5%81%E7%A8%8B190625.png)
 - 6.5 [System Sequence Diagrams（功能模型）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/6.5sequence_model.md)
-- 6.6 Supplementary Requirements（补充需求）
+- 6.6 [Supplementary Requirements（补充需求）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/6.6additional_requirements.md)
 #### 7、Design（设计说明书）
 - 7.1 [UI design（界面设计）](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/README.md)
 - 7.2 [Database design（数据库设计）](https://github.com/sysu620/sysu620/tree/master/Design/ER图.png)
@@ -21,10 +21,12 @@
 - 7.5 Usecase design（用例设计）
   - 7.5.1 [注册登录用例设计](https://github.com/sysu620/sysu620/blob/master/Design/use_case_design.md)
 #### 8、生产规范与指南
-- 8.1 XX 代码规范
+- 8.1 [XX 代码规范](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)
 - 8.2 [REST API 设计规范](https://github.com/sysu620/sysu620/tree/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/RESTful_API设计规范.md)
 - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://github.com/sysu620/sysu620/tree/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/架构设计.md)
 - 8.4 部署说明
+  - 8.4.1 [客户端部署说明](https://github.com/sysu620/client/blob/master/README.md)
+  - 8.4.2 [服务端部署说明](https://github.com/sysu620/Server/blob/master/README.md)
 #### 9、成品展示
 - 9.1 XX短视频
 - 9.2 XX短视频
