@@ -46,6 +46,10 @@
   - [系分 | UML之活动图与状态图](https://blog.csdn.net/cat_xing/article/details/93744098)
   - [系分 | UML之用例图](https://blog.csdn.net/cat_xing/article/details/93743295)
   - [系统分析与设计 | 团队中的各种角色](https://blog.csdn.net/cat_xing/article/details/89243370)
+- 16340079
+  - [系分 | 安装go语言开发环境](https://blog.csdn.net/hcm_0079/article/details/82903449)
+  - [系分 | gorilla/mux源码分析](https://blog.csdn.net/hcm_0079/article/details/84330100)
+  - [系分 | 简单web服务与客户端开发实战](https://blog.csdn.net/hcm_0079/article/details/85072030)
 #### X5 Final Report
 - 学号-title
 - 小组分工与贡献率说明
