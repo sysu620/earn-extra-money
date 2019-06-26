@@ -65,6 +65,16 @@
   - [系分|前端知识总结](https://huangbxaaa.github.io/2019/04/17/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88%E6%94%B6%E9%9B%86/)
   - [系分|local srorage 和 vuex](https://blog.csdn.net/huangbx_tx/article/details/93792102)
   - [系分|vue-cli + semantic UI 环境配置](https://blog.csdn.net/huangbx_tx/article/details/93790442)
+  
+  
+ - 16340075
+  - [系分| VirtualBox搭建CentOS私有云](https://blog.csdn.net/Skywalker1111/article/details/82825697)
+  - [系分| net/http源码分析](https://blog.csdn.net/Skywalker1111/article/details/84205928)
+  - [系分| Simple Blog项目总结](https://blog.csdn.net/Skywalker1111/article/details/85042595)
+  - [系分| golang开发简单CLI程序](https://blog.csdn.net/Skywalker1111/article/details/86551436)
+  - [系分| 软件项目与知识团队管理](https://blog.csdn.net/Skywalker1111/article/details/89390602)
+  - [系分| week3 软件项目过程模型与规划](https://blog.csdn.net/Skywalker1111/article/details/89390610)
+  
 #### X5 Final Report
 - 学号-title
 - 小组分工与贡献率说明
