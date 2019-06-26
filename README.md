@@ -23,7 +23,7 @@
 #### 8、生产规范与指南
 - 8.1 XX 代码规范
 - 8.2 [REST API 设计规范](https://github.com/sysu620/sysu620/tree/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/RESTful_API设计规范.md)
-- 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
+- 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://github.com/sysu620/sysu620/tree/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/架构设计.md)
 - 8.4 部署说明
 #### 9、成品展示
 - 9.1 XX短视频
