@@ -75,6 +75,10 @@
     - [系分| 软件项目与知识团队管理](https://blog.csdn.net/Skywalker1111/article/details/89390602)
     - [系分| week3 软件项目过程模型与规划](https://blog.csdn.net/Skywalker1111/article/details/89390610)
   
+ - 16340057
+    - [系分| UML建模总结](https://blog.csdn.net/kexindiao/article/details/93791147)
+ 
+ 
 #### X5 Final Report
 - 学号-title
 - 小组分工与贡献率说明
