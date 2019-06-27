@@ -78,6 +78,9 @@
  - 16340057
     - [系分| UML建模总结](https://blog.csdn.net/kexindiao/article/details/93791147)
     - [系分| 项目的敏捷开发](https://blog.csdn.net/kexindiao/article/details/93854986)
+    - [系分| 项目需求分析和UI设计过程记录](https://blog.csdn.net/kexindiao/article/details/93869503)
+    - [系分| 软件项目与知识团队管理](https://blog.csdn.net/kexindiao/article/details/88813986)
+    - [系分| 软件项目过程模型与规划](https://blog.csdn.net/kexindiao/article/details/89343009)
     - [系分| Ubuntu搭建私有云](https://blog.csdn.net/kexindiao/article/details/82695148)
  
 #### X5 Final Report
