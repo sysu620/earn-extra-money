@@ -86,5 +86,10 @@
     - [系分| Ubuntu搭建私有云](https://blog.csdn.net/kexindiao/article/details/82695148)
  
 #### X5 Final Report
-- 学号-title
-- 小组分工与贡献率说明
+- [16340073-系分 | 个人小结](https://blog.csdn.net/cat_xing/article/details/93768469)
+- 
+- 
+- 
+- 
+- 
+- [小组分工与贡献率说明](https://blog.csdn.net/cat_xing/article/details/93769075)
