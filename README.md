@@ -40,7 +40,7 @@
 - [(19/6/23)](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.6.23.png)
 
 #### X2 [KANBAN](https://github.com/orgs/sysu620/projects)
-#### X3 auditing-records
+#### X3 [auditing-records](https://github.com/sysu620/sysu620/blob/master/x3_auditing_records.md)
 #### X4 Tech/Work Report
 - 16340073
   - [系分 | UML之包图](https://blog.csdn.net/cat_xing/article/details/93746468)
