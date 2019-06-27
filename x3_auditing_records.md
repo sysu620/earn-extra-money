@@ -3,7 +3,7 @@
 |--|--| --| --|
 | 16340073 | 	9ayhub | 需求审计：对用户的评价 | https://github.com/haowe-7/Dashboard/issues/8 |
 | 16340057 |  |  |  |
-| 16340074 |  |  |  |
+| 16340074 |  Ralph with Miss F|需求审计：对发布者的评价  |https://github.com/haowe-7/Dashboard/issues/9  |
 | 16340075 |  |  |  |
 | 16340078 |  |  |  |
 | 16340079 |  |  |  |
@@ -14,7 +14,7 @@
 |--|--| --| --|
 | 16340073 | 	9ayhub | 设计审计：关于架构设计 | https://github.com/surplus-youyu/Dashboard/issues/14 |
 | 16340057 |  |  |  |
-| 16340074 |  |  |  |
+| 16340074 |  Ralph with Miss F|设计审计：关于前端页面组织结构  | https://github.com/surplus-youyu/Dashboard/issues/15 |
 | 16340075 |  |  |  |
 | 16340078 |  |  |  |
 | 16340079 |  |  |  |
