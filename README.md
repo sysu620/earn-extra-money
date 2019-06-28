@@ -5,7 +5,7 @@
 
 2、[Team profile（团队组建与分工）](https://sysu620.github.io/sysu620/02-team-profile)
 
-3、[Investigation（项目前期调研/竞品分析）](https://sysu620.github.io/sysu620/03-investigation)
+3、[Investigation（项目前期调研/竞品分析）](https://github.com/sysu620/sysu620/blob/master/03-investigation.md)
 
 4、[Vision（项目愿景）](https://sysu620.github.io/sysu620/04-vision)
 
@@ -22,7 +22,7 @@
   - 6.8 [软件设计技术](https://blog.csdn.net/huangbx_tx/article/details/94046936)
 
 7、Design（设计说明书）
-  - 7.1 [UI design（界面设计）](https://sysu620.github.io/sysu620/07-01-ui-design)
+  - 7.1 [UI design（界面设计）](https://github.com/sysu620/sysu620/blob/master/UI%E8%AE%BE%E8%AE%A1/README.md)
   - 7.2 [Database design（数据库设计）](https://github.com/sysu620/sysu620/tree/master/Design/ER图.png)
   - 7.3 [Interface API design（接口 API 设计）](https://sysu620.github.io/sysu620/07-03-API)
   - 7.4 [Architecture design（架构设计）](https://sysu620.github.io/sysu620/07-04-software-architecture-document)
