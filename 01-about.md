@@ -2,11 +2,12 @@
 挣闲钱是面向大学生的专业“众包”系统，大学生通过做任务挣钱，轻松赚取生活费，生活中的棘手、为难事情，都可以通过在挣闲钱发布任务来解决。
 
 ## 2、重要分析设计文档
-[需求规格说明书](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/SRS.md)
 
-[软件设计说明书](https://github.com/sysu620/sysu620/blob/master/Design/README.md)
+需求规格说明书
 
-[产品演示视频]()
+软件设计说明书
+
+产品演示视频
 
 
 
