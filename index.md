@@ -54,7 +54,7 @@ X1 meeting-records
 
 X2 [KANBAN](https://github.com/orgs/sysu620/projects)
 
-X3 [auditing-records](https://sysu620.github.io/sysu620/x3_auditing_records)
+X3 [auditing-records](https://github.com/sysu620/sysu620/blob/master/x3_auditing_records.md)
 
 X4 Tech/Work Report
   - 16340073
