@@ -3,7 +3,9 @@
 
 ## 2、重要分析设计文档
 需求规格说明书
+
 软件设计说明书
+
 产品演示视频
 
 
@@ -12,11 +14,11 @@
 #### Inceptions
 - goal: 就产品“产品范围、愿景和核心业务”达成一致
 - 前期工作：
-	- 产品调查：xxx
-	- 团队组织
+	- 产品调查：NikkariAoe、9ayhub
+	- 团队组织：文档（9ayhub、NikkariAoe）、前端（hbx666、Ralph with Miss F、skywalker00001）、后端（GostBop）
 - 项目启动会议：所有人
-- 项目愿景等文档： xxx
-- XX业务故事板设计: xxx
+- 项目愿景等文档： 9ayhub
+- 业务故事板设计: NikkariAoe
 
 #### Itearation 1(3 weeks from 19/4/24 to 19/5/19)
 **目标**
