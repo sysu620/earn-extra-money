@@ -5,7 +5,7 @@
 
 2、[Team profile（团队组建与分工）](https://sysu620.github.io/sysu620/02-team-profile)
 
-3、[Investigation（项目前期调研/竞品分析）](https://sysu620.github.io/sysu620/03-investigation)
+3、[Investigation（项目前期调研/竞品分析）](https://github.com/sysu620/sysu620/blob/master/03-investigation.md)
 
 4、[Vision（项目愿景）](https://sysu620.github.io/sysu620/04-vision)
 
