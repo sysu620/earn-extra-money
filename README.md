@@ -3,13 +3,13 @@
 
 1、[About（项目概况）](https://github.com/sysu620/sysu620/blob/master/01-about.md)
 
-2、[Team profile（团队组建与分工）](https://github.com/sysu620/sysu620/blob/master/team.md)
+2、[Team profile（团队组建与分工）](https://github.com/sysu620/sysu620/blob/master/02-team-profile.md)
 
-3、[Investigation（项目前期调研/竞品分析）](https://github.com/sysu620/sysu620/blob/master/investigation.md)
+3、[Investigation（项目前期调研/竞品分析）](https://github.com/sysu620/sysu620/blob/master/03-investigation.md)
 
-4、[Vision（项目愿景）](https://github.com/sysu620/sysu620/blob/master/Vision.md)
+4、[Vision（项目愿景）](https://github.com/sysu620/sysu620/blob/master/04-vision.md)
 
-5、[Product Backlog （产品特性库）](https://github.com/sysu620/sysu620/blob/master/Product%20Backlog.md)
+5、[Product Backlog （产品特性库）](https://github.com/sysu620/sysu620/blob/master/05-product-backlog.md)
 
 6、Requirement specification（需求规格说明书）
   - 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E7%94%A8%E4%BE%8B%E5%9B%BE_%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B.md)
