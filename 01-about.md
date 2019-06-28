@@ -29,7 +29,7 @@
 
 
 会议记录(19/4/24)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190626144630512.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/meeting_records/%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95week2.png?raw=true)
 
 会议记录(19/5/5)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190626150627550.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
