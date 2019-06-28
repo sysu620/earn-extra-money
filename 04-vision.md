@@ -1,4 +1,4 @@
-﻿## 项目概述
+## 项目概述
 挣闲钱是面向大学生的专业“众包”系统，大学生通过做任务挣钱，轻松赚取生活费，生活中的棘手、为难事情，都可以通过在挣闲钱发布任务来解决。
 
 
@@ -12,8 +12,9 @@
 - 解决为难问题 —— 有事求帮忙，不谈感情，直接谈赏金，更直接，更高效
 - 保护个人隐私 —— 不传身份证，不绑卡，做点轻而易举的小任务就能赚钱
 ## 用例故事
-![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E7%94%A8%E4%BE%8B%E5%9B%BE190628.png?raw=true)
-![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E6%B5%81%E7%A8%8B%E5%9B%BE190602.jpg?raw=true)
+![用例图](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E7%94%A8%E4%BE%8B%E5%9B%BE190628.png?raw=true)
+
+![业务流程](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E6%B5%81%E7%A8%8B%E5%9B%BE190602.jpg?raw=true)
 
 ## 项目特征
 - 有一个云服务中心，其业务在不断完善中
