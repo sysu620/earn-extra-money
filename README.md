@@ -1,40 +1,40 @@
 ## 项目文档目录
 
 
-1、[About（项目概况）](https://sysu620.github.io/sysu620/01-about.md)
+1、[About（项目概况）](https://sysu620.github.io/sysu620/01-about)
 
-2、[Team profile（团队组建与分工）](https://github.com/sysu620/sysu620/blob/master/02-team-profile.md)
+2、[Team profile（团队组建与分工）](https://sysu620.github.io/sysu620/02-team-profile)
 
-3、[Investigation（项目前期调研/竞品分析）](https://github.com/sysu620/sysu620/blob/master/03-investigation.md)
+3、[Investigation（项目前期调研/竞品分析）](https://sysu620.github.io/sysu620/03-investigation)
 
-4、[Vision（项目愿景）](https://github.com/sysu620/sysu620/blob/master/04-vision.md)
+4、[Vision（项目愿景）](https://sysu620.github.io/sysu620/04-vision)
 
-5、[Product Backlog （产品特性库）](https://github.com/sysu620/sysu620/blob/master/05-product-backlog.md)
+5、[Product Backlog （产品特性库）](https://sysu620.github.io/sysu620/05-product-backlog)
 
 6、Requirement specification（需求规格说明书）
-  - 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](https://github.com/sysu620/sysu620/blob/master/06-01-usecase-diagram.md)
-  - 6.2 [Use Cases（用例+活动图）](https://github.com/sysu620/sysu620/blob/master/06-02-use-cases.md)
+  - 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](https://sysu620.github.io/sysu620/06-01-usecase-diagram)
+  - 6.2 [Use Cases（用例+活动图）](https://sysu620.github.io/sysu620/06-02-use-cases)
   - 6.3 [Domian Models（领域模型）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E9%A2%86%E5%9F%9F%E5%BB%BA%E6%A8%A1190625.png)
   - 6.4 [State Models（状态模型）](https://github.com/sysu620/sysu620/blob/master/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3/%E4%BB%BB%E5%8A%A1%E7%8A%B6%E6%80%81%E6%B5%81%E7%A8%8B190625.png)
-  - 6.5 [System Sequence Diagrams（功能模型）](https://github.com/sysu620/sysu620/blob/master/06-05-system-sequence-diagram.md)
-  - 6.6 [Supplementary Requirements（补充需求）](https://github.com/sysu620/sysu620/blob/master/06-06-supplementary-requirements.md)
-  - 6.7 [模块划分](https://github.com/sysu620/sysu620/blob/master/06-07-%E6%A8%A1%E5%9D%97%E5%88%92%E5%88%86.md)
+  - 6.5 [System Sequence Diagrams（功能模型）](https://sysu620.github.io/sysu620/06-05-system-sequence-diagram)
+  - 6.6 [Supplementary Requirements（补充需求）](https://sysu620.github.io/sysu620/06-06-supplementary-requirements)
+  - 6.7 [模块划分](https://sysu620.github.io/sysu620/06-07-%E6%A8%A1%E5%9D%97%E5%88%92%E5%88%86)
   - 6.8 [软件设计技术](https://blog.csdn.net/huangbx_tx/article/details/94046936)
 
 7、Design（设计说明书）
-  - 7.1 [UI design（界面设计）](https://github.com/sysu620/sysu620/blob/master/07-01-ui-design.md)
+  - 7.1 [UI design（界面设计）](https://sysu620.github.io/sysu620/07-01-ui-design)
   - 7.2 [Database design（数据库设计）](https://github.com/sysu620/sysu620/tree/master/Design/ER图.png)
-  - 7.3 [Interface API design（接口 API 设计）](https://github.com/sysu620/sysu620/blob/master/07-03-API.md)
-  - 7.4 [Architecture design（架构设计）](https://github.com/sysu620/sysu620/blob/master/07-04-software-architecture-document.md)
+  - 7.3 [Interface API design（接口 API 设计）](https://sysu620.github.io/sysu620/07-03-API)
+  - 7.4 [Architecture design（架构设计）](https://sysu620.github.io/sysu620/07-04-software-architecture-document)
   - 7.5 Usecase design（用例设计）
-    - 7.5.1 [注册登录用例设计](https://github.com/sysu620/sysu620/blob/master/07-05-01-usecase1.md)
-    - 7.5.2 [发布任务用例设计](https://github.com/sysu620/sysu620/blob/master/07-05-02-usecase2.md)
-    - 7.5.3 [提现用例设计](https://github.com/sysu620/sysu620/blob/master/07-05-03-usecase3.md)
+    - 7.5.1 [注册登录用例设计](https://sysu620.github.io/sysu620/07-05-01-usecase1)
+    - 7.5.2 [发布任务用例设计](https://sysu620.github.io/sysu620/07-05-02-usecase2)
+    - 7.5.3 [提现用例设计](https://sysu620.github.io/sysu620/07-05-03-usecase3)
 
 8、生产规范与指南
-  - 8.1 [XX 代码规范](https://github.com/sysu620/sysu620/blob/master/08-01-coding-standard.md)
-  - 8.2 [REST API 设计规范](https://github.com/sysu620/sysu620/blob/master/08-02-RESTful-api-design-standard.md)
-  - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://github.com/sysu620/sysu620/blob/master/08-03-relationship-between-ECB-framework-directory-design-logic-archit.md)
+  - 8.1 [XX 代码规范](https://sysu620.github.io/sysu620/08-01-coding-standard)
+  - 8.2 [REST API 设计规范](https://sysu620.github.io/sysu620/08-02-RESTful-api-design-standard)
+  - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://sysu620.github.io/sysu620/08-03-relationship-between-ECB-framework-directory-design-logic-archit)
   - 8.4 部署说明
     - 8.4.1 [客户端部署说明](https://github.com/sysu620/client/blob/master/README.md)
     - 8.4.2 [服务端部署说明](https://github.com/sysu620/Server/blob/master/README.md)
@@ -43,7 +43,7 @@
   - 9.1 XX短视频
   - 9.2 XX短视频
 
-X1 [meeting-records](https://github.com/sysu620/sysu620/tree/master/meeting_records)
+X1 meeting-records
   - [(19/4/24)](https://github.com/sysu620/sysu620/blob/master/meeting_records/%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95week2.png)
   - [(19/5/5)](https://github.com/sysu620/sysu620/blob/master/meeting_records/%E5%B0%8F%E7%BB%84%E4%BC%9A%E8%AE%AE3%EF%BC%882019.5.5%EF%BC%89.png)
   - [(19/5/19)](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.5.19.png)
@@ -54,7 +54,7 @@ X1 [meeting-records](https://github.com/sysu620/sysu620/tree/master/meeting_reco
 
 X2 [KANBAN](https://github.com/orgs/sysu620/projects)
 
-X3 [auditing-records](https://github.com/sysu620/sysu620/blob/master/x3_auditing_records.md)
+X3 [auditing-records](https://sysu620.github.io/sysu620/x3_auditing_records)
 
 X4 Tech/Work Report
   - 16340073
