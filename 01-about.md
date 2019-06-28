@@ -29,13 +29,13 @@
 
 
 会议记录(19/4/24)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190626144630512.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/meeting_records/%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95week2.png?raw=true)
 
 会议记录(19/5/5)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190626150627550.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/meeting_records/%E5%B0%8F%E7%BB%84%E4%BC%9A%E8%AE%AE3%EF%BC%882019.5.5%EF%BC%89.png?raw=true)
 
 会议记录(19/5/19)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019062615065188.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.5.19.png?raw=true)
 
 
 #### Itearation 2(3 weeks from 19/5/19 to 19/6/9)
@@ -45,10 +45,10 @@
 3. 后台完成 API 设计
 
 会议记录(19/6/2)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190626150712647.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.6.2.png?raw=true)
 
 会议记录(19/6/9)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019062615072619.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.6.9.png?raw=true)
 
 
 
@@ -62,6 +62,6 @@
 
 会议记录(19/6/23)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190626150757499.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NhdF94aW5n,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/sysu620/sysu620/blob/master/meeting_records/2019.6.23.png?raw=true)
 
 
