@@ -1,7 +1,7 @@
 ## 项目文档目录
 
 
-1、[About（项目概况）](https://github.com/sysu620/sysu620/blob/master/About.md)
+1、[About（项目概况）](https://github.com/sysu620/sysu620/blob/master/01-about.md)
 
 2、[Team profile（团队组建与分工）](https://github.com/sysu620/sysu620/blob/master/team.md)
 
