@@ -6,7 +6,7 @@
 | 16340074 |  Ralph with Miss F|需求审计：对发布者的评价  |https://github.com/haowe-7/Dashboard/issues/9  |
 | 16340075 |  |  |  |
 | 16340078 |  |  |  |
-| 16340057 |  |  |  |
+| 16340057 | NikkariAoe| 需求审计：提现 |https://github.com/LittleMiser/LittleMiser/issues/4 |
 
 
 ## 2、设计审计
