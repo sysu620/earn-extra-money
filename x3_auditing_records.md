@@ -5,7 +5,7 @@
 | 16340079 | GostBop | 需求审计：关于问卷 | https://github.com/SSASGroup/Dashboard/issues/10 |
 | 16340074 |  Ralph with Miss F|需求审计：对发布者的评价  |https://github.com/haowe-7/Dashboard/issues/9  |
 | 16340075 |  |  |  |
-| 16340078 |  |  |  |
+| 16340078 | huangbxaaa | 需求审计：对发布内容的审核 | https://github.com/haowe-7/Dashboard/issues/17 |
 | 16340057 | NikkariAoe| 需求审计：提现 |https://github.com/LittleMiser/LittleMiser/issues/4 |
 
 
