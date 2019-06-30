@@ -40,8 +40,9 @@
     - 8.4.2 [服务端部署说明](https://github.com/sysu620/Server/blob/master/README.md)
 
 9、成品展示
-  - 9.1 XX短视频
-  - 9.2 XX短视频
+  - 9.1 [短视频1](https://github.com/sysu620/sysu620/blob/master/20190630_210256.mp4)
+  - 9.2 [短视频2](https://github.com/sysu620/sysu620/blob/master/20190630_210625.mp4)
+  - 9.3 [短视频3](https://github.com/sysu620/sysu620/blob/master/20190630_211347.mp4)
 
 X1 meeting-records
   - [(19/4/24)](https://github.com/sysu620/sysu620/blob/master/meeting_records/%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95week2.png)
