@@ -105,4 +105,5 @@ X5 Final Report
   - [16340078-系分 | 个人小结](https://blog.csdn.net/huangbx_tx/article/details/93897689)
   - [16340074-系分 | 个人小结](https://blog.csdn.net/RALPHFJY/article/details/93890143)
   - [16340057-系分 | 个人小结](https://blog.csdn.net/kexindiao/article/details/93889691)
+  - [16340075-系分 | 个人小结](https://blog.csdn.net/Skywalker1111/article/details/94360849)
   - [小组分工与贡献率说明](https://blog.csdn.net/cat_xing/article/details/93769075)
