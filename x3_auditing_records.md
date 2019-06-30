@@ -16,5 +16,5 @@
 | 16340079 | GostBop | 设计审计：关于架构设计 | https://github.com/SSASGroup/Dashboard/issues/11 |
 | 16340074 |  Ralph with Miss F|设计审计：关于前端页面组织结构  | https://github.com/surplus-youyu/Dashboard/issues/15 |
 | 16340075 |  |  |  |
-| 16340078 |  |  |  |
+| 16340078 | huangbxaaa | 设计审计：关于安全登陆的问题 | https://github.com/surplus-youyu/Dashboard/issues/17 |
 | 16340057 |NikkariAoe | 设计审计：导航 |https://github.com/LittleMiser/LittleMiser/issues/3 |
